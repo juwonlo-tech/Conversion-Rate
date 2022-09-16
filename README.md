@@ -35,3 +35,5 @@ Things like 'treasure hunts' will also increase the number of users and the leng
 Resources can be channeled into improving patronage from that region. Resources should also be channeled to other North American and Asian countries since the organization has a huge presence in major countries on these continents.
 
 Also, a large population of users are visiting via SEO. More resources can be directed towards more publicity via SEOs.
+
+The full jupyter notebook can be found here: https://github.com/juwonlo-tech/Conversion-Rate/blob/main/Conversion%20Rate.ipynb
