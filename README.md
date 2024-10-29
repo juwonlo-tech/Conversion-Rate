@@ -1,5 +1,5 @@
 # Conversion-Rate
-The project is aimed at helping an organization increase the number of people that make purchases (convert) after visiting their website
+The project is aimed at helping an organization increase the number of people that make purchases (convert) after visiting their website.
 Using the Logistic Regression algorithm, a system was developed to predict whether a new user will convert or not and provide the current conversion rate. 
 Recommendations were also made based on the results of exploratory analysis on how to increase the conversion rate and increase the performance of the website/organization.
 
